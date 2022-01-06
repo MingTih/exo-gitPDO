@@ -162,7 +162,7 @@
                 <label for="mdp">Mot de passe</label>
             </div>
 
-            <input type="submit" value="Valider" class="btn btn-warning d-block mx-auto">
+            <input type="submit" value="Valider" class="btn btn-primary d-block mx-auto">
 
         </form>
 
